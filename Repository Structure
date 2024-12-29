@@ -1,0 +1,7 @@
+password-manager-/  
+│  
+├── main.py               # GUI application logic  
+├── encryption.py         # Encryption and decryption logic  
+├── database.py           # Database interaction logic  
+├── requirements.txt      # Python dependencies  
+└── README.md             # Project documentation  
